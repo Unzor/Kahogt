@@ -15,10 +15,10 @@ node index.js
 ```
 index.js:
 ```javascript
-var Kahogt=require('kahogt');
+var Kahogt = require('kahogt');
 
 Kahogt.listen(8000, function(){
-console.log('Kahogt listening at port 8000');
+console.log('App listening at port 8000');
 });
 ```
 ## From source
