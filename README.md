@@ -1,12 +1,17 @@
 # Kahogt
 Kahogt is a Kahoot botter.
 
-# Prequisites
+# How to get
+Option 1: Visiting main page [ht](https://kahogt.ml) (No downloading, but slowest and most effective)
+Option 2: Downloading desktop app (Recommended way, only for Windows)
+Option 3: Building from source/using NPM package (Best way to do it on Linux)
+
+# Prequisites (for building and running)
 - NodeJS
 - Git
 - NPM
 
-# Build & run 
+# Use with NPM package & run 
 ## NPM Package
 Run this in cmd/terminal:
 ```
