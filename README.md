@@ -9,7 +9,7 @@ Option 2: Downloading desktop app (Recommended way, only for Windows)
 Option 3: Building from source/using NPM package (Best way to do it on Linux)
 
 # Prequisites (for building and running)
-- NodeJS
+- NodeJS (NEEDED FOR DESKTOP APP)
 - Git
 - NPM
 
