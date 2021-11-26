@@ -38,7 +38,7 @@ node index.js
 ```
 ## Desktop App
 After installed with bootstrapper, desktop icon will be created for Kahogt. Click on it to run.
-## Build bootstrapper from source using Bootstall
+## Build bootstrapper using Bootstall
 ```
 npm install -g bootstall
 bootstall kahogt-win32-x64 https://kahogt-archive.seven7four4.repl.co/files/kahogt-win32-x64.zip true kahogt.exe
