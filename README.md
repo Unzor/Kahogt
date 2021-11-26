@@ -4,7 +4,7 @@ Kahogt is a Kahoot botter.
 # How to get
 Option 1: Visiting main page [(kahogt.ml)](https://kahogt.ml) (No downloading, but slowest and most effective)
 
-Option 2: Downloading desktop app from releases (Recommended way, only for Windows)
+Option 2: Downloading Kahogt bootstrapper from releases (Recommended way, only for Windows)
 
 Option 3: Building from source/using NPM package (Best way to do it on Linux)
 
@@ -36,3 +36,5 @@ cd Kahogt
 npm install
 node index.js
 ```
+## Desktop App
+After installed with bootstrapper, desktop icon will be created for Kahogt. Click on it to run.
